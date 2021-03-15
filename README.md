@@ -8,9 +8,9 @@ My hobby is helping small (mostly Open Source) projects, always looking to impro
 
 ### I'm recently working with
 ![react](./assets/badges/react.svg "React")
-![react-native](./assets/badges/react-native.svg "React Native")<br>
+![react-native](./assets/badges/react-native.svg "React Native")  
 ![javascript](./assets/badges/javascript.svg "JavaScript")
-![typescript](./assets/badges/typescript.svg "TypeScript")<br>
+![typescript](./assets/badges/typescript.svg "TypeScript")  
 ![open-source](./assets/badges/open-source.svg)
 
 ### If you want to get in touch
