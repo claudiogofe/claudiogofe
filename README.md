@@ -1,16 +1,13 @@
-### Hi there 👋
+### Aopa, meu nome é Claudio, bora codar junto? 🤘
 
-<!--
-**nidralC/nidralC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor e designer com experiência em tecnologias **web** e **mobile**. 
 
-Here are some ideas to get you started:
+Também sou beeem curioso e tô sempre aprendendo algo novo. O mercado sempre introduz novas tecnologias e eu gosto muito de me aventurar nelas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Curto ajudar em projetos OpenSource no meu tempo livre, sempre melhorando e adaptando meus conhecimentos.
+
+### Atualmente eu curto trabalhar em: <br>
+[![react](https://aleen42.github.io/badges/src/react.svg)](#)
+[![javascript](https://aleen42.github.io/badges/src/javascript.svg)](#)
+[![typescript](https://aleen42.github.io/badges/src/typescript.svg)](#)
+[![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](#)
