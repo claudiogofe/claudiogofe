@@ -1,6 +1,6 @@
-### Hello, I'm Claudio, let's code? 🤘
+### Hi, I'm Claudio Gomes 🤘
 
-I'm a developer and designer with experience in creating **web** and **mobile** experiences. 
+I'm a Brazilian developer and designer experienced in creating **web** and **mobile** experiences. 
 
 There's always new tech out there and I love exploring them.
 
