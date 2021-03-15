@@ -1,13 +1,18 @@
-### Aopa, meu nome é Claudio, bora codar junto? 🤘
+### Hello, I'm Claudio, let's code? 🤘
 
-Sou um desenvolvedor e designer com experiência em tecnologias **web** e **mobile**. 
+I'm a developer and designer with experience in creating **web** and **mobile** experiences. 
 
-Também sou beeem curioso e tô sempre aprendendo algo novo. O mercado sempre introduz novas tecnologias e eu gosto muito de me aventurar nelas.
+There's always new tech out there and I love exploring them.
 
-Curto ajudar em projetos OpenSource no meu tempo livre, sempre melhorando e adaptando meus conhecimentos.
+My hobby is helping small (mostly Open Source) projects, always looking to improve and adapt my skills and help others along the way.
 
-### Atualmente eu curto trabalhar em: <br>
-[![react](https://aleen42.github.io/badges/src/react.svg)](#)
-[![javascript](https://aleen42.github.io/badges/src/javascript.svg)](#)
-[![typescript](https://aleen42.github.io/badges/src/typescript.svg)](#)
-[![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](#)
+### I'm recently working with
+[![react](./assets/badges/react.svg)](#)
+[![react-native](./assets/badges/react-native.svg)](#)<br>
+[![javascript](./assets/badges/javascript.svg)](#)
+[![typescript](./assets/badges/typescript.svg)](#)<br>
+[![open-source](./assets/badges/open-source.svg)](#)
+
+### If you want to get in touch
+[![email](./assets/badges/email.svg)](#)
+[![email](./assets/badges/call.svg)](#)
