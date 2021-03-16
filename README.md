@@ -15,4 +15,4 @@ My hobby is helping small (mostly Open Source) projects, always looking to impro
 
 ### If you want to get in touch
 [![email](./assets/badges/email.svg)](mailto:pm@nidralc.com "Send me an email.")
-[![call](./assets/badges/call.svg)](tel:+55(11)99850-2662 "Give me a call.")
+[![whatsapp](./assets/badges/whatsapp.svg)](https://wa.me/+5511998502662 "Message me.")
