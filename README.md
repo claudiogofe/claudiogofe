@@ -7,6 +7,7 @@ There's always new tech out there and I love exploring them.
 My hobby is helping small (mostly Open Source) projects, always looking to improve and adapt my skills and help others along the way.
 
 ### I'm recently working with
+[![svelte](./assets/badges/svelte.svg)](# "Svelte")  
 [![react](./assets/badges/react.svg)](# "React")
 [![react-native](./assets/badges/react-native.svg)](# "React Native")  
 [![javascript](./assets/badges/javascript.svg "JavaScript")](# "JavaScript")
