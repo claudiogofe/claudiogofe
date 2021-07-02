@@ -12,7 +12,7 @@ My hobby is helping small (mostly Open Source) projects, always looking to impro
 [![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge)](#)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge)](#)
 [![React Native](https://img.shields.io/badge/React_Native-61FBC3?style=for-the-badge)](#)  
-[![GJS](https://img.shields.io/badge/GJS-brightgreen?style=for-the-badge)](#)
+[![Node GTK](https://img.shields.io/badge/Node--GTK-brightgreen?style=for-the-badge)](#)
 [![GTK4](https://img.shields.io/badge/GTK4-gray?style=for-the-badge)](#)
 [![OpenSource](https://img.shields.io/badge/OpenSource-black?style=for-the-badge)](#)
 
