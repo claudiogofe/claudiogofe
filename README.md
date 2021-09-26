@@ -17,5 +17,5 @@ My hobby is helping small (mostly Open Source) projects, always looking to impro
 [![OpenSource](https://img.shields.io/badge/OpenSource-black?style=for-the-badge)](#)
 
 ### Get In Touch
-[![Send Email](https://img.shields.io/badge/Send_Email-FFBC58?style=for-the-badge)](mailto:pm@nidralc.com "Send me an email.")
+[![Send Email](https://img.shields.io/badge/Send_Email-FFBC58?style=for-the-badge)](mailto:gomes.codes@gmail.com "Send me an email.")
 [![Message Me](https://img.shields.io/badge/Message_Me-98FF75?style=for-the-badge)](https://wa.me/+5511998502662 "Message me.")
