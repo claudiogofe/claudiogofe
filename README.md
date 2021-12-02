@@ -7,7 +7,6 @@ There's always new tech out there and I love exploring them.
 My hobby is helping small (mostly Open Source) projects, always looking to improve and adapt my skills and help others along the way.
 
 ### I Work With
-[![OpenSource](https://img.shields.io/badge/OpenSource-black?style=for-the-badge)](#)  
 [![Python](https://img.shields.io/badge/Python-darkblue?style=for-the-badge)](#)
 [![Qt](https://img.shields.io/badge/Qt-brightgreen?style=for-the-badge)](#)
 [![GTK4](https://img.shields.io/badge/GTK4-gray?style=for-the-badge)](#)  
