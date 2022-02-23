@@ -4,7 +4,7 @@ I design and develop great **desktop** and **web** experiences.
 
 There's always new technologies out there and I love exploring and working with them, such as... 
 
-<h1>
+#
 
 ### Programming Languages:
 Interpreted:  
@@ -14,7 +14,7 @@ Compiled:
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)
 [![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white)](#)
 
-<h1>
+#
 
 ### Databases:
 Relational:  
@@ -25,7 +25,7 @@ Non Relational:
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](#)
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](#)
 
-<h1>
+#
 
 ### Frameworks:
 Back-End:  
@@ -34,25 +34,25 @@ Front-End:
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#)
 [![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)](#)
 
-<h1>
+#
 
 ### Infrastructure:
 [![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
 [![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)](#)  
 [![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](#)
 
-<h1>
+#
 
 ### Design & Illustration:  
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
 [![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=black)](#)
 [![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)](#)  
 
-<h1>
+#
 
 ### Contact:
-[![Send Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gomes.codes@gmail.com "Send me an email.")
+[![Send Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gomes.codes@gmail.com "Send me an email.")  
 
-<h1>
+#
 
-Thanks for checking out my profile o/
+**Thanks for checking out my profile o/**
