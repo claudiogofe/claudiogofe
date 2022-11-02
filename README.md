@@ -1,4 +1,4 @@
-# Hi, I'm Claudio Gomes 🤘
+# Hi, I'm Claudio Gomes Ferraz 🤘
 
 I design and develop great **desktop** and **web** experiences. 
 
@@ -51,7 +51,7 @@ Front-End:
 #
 
 ### Contact:
-[![Send Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gomes.codes@gmail.com "Send me an email.")  
+[![Send Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gofeclaudio@gmail.com "Send me an email.")  
 
 #
 
