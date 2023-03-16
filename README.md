@@ -8,6 +8,7 @@ There's always new technologies out there and I love exploring and working with 
 
 ### Programming Languages:
 Compiled:  
+[![Dart](https://img.shields.io/badge/Dart-4C8BF5?style=for-the-badge&logo=dart&logoColor=white)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)
 <!-- [![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white)](#)   -->
 Interpreted:  
@@ -28,12 +29,13 @@ Non Relational:
 #
 
 ### Frameworks:
-Back-End:  
-[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](#)  
 Front-End:  
+[![Flutter](https://img.shields.io/badge/Flutter-4C8BF5?style=for-the-badge&logo=flutter&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)
-[![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)](#)
+[![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)](#)  
+Back-End:  
+[![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](#)  
 
 #
 
