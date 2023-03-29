@@ -1,4 +1,4 @@
-# Hi, I'm Claudio Gofe 🤘
+# Hi, I'm Claudio Gomes 🤘
 
 I design and develop great **desktop** and **web** experiences. 
 
